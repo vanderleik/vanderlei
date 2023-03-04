@@ -2,6 +2,8 @@
 
 Estou atualizando alguns dos meus projetos no Github e criando novos projetos. Basicamente o que tenho postado aqui são alguns exercícios que eu faço com o objetivo de treinar a parte lógica.
 
+Basicamente sou um desenvolvedor backend. Pensando em evoluir profissionalmente, estou cursando uma especialização em desenvolvimento fullstack. Com isso, muitos repositórios passarão a contar com desenvolvimentos básicos de html, CSS, JavaScript, entre outros.
+
 Em breve terei mais novidades!
 
 
