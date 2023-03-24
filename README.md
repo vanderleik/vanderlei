@@ -4,6 +4,8 @@ Estou atualizando alguns dos meus projetos no Github e criando novos projetos. B
 
 Basicamente sou um desenvolvedor backend. Pensando em evoluir profissionalmente, estou cursando uma especialização em desenvolvimento fullstack. Com isso, muitos repositórios passarão a contar com desenvolvimentos básicos de html, CSS, JavaScript, entre outros.
 
+Sabe como é, né? Aprendendo em público!!!
+
 Em breve terei mais novidades!
 
 
