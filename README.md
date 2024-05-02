@@ -4,6 +4,8 @@ Engenheiro de Software Full Stack | Especialista em Desenvolvimento | Especialis
 
 Atualmente sou Engenheiro de Software, com especialização em desenvolvimento full stack pela PUC RS, e experiência no desenvolvimento back end com linguagem Java. Também sou Mestre em Economia pela UFSC, com vasta experiência em finanças e 17 anos de experiência em bancos, professor universitário e escritor.´
 
+Aproveite para dar uma olhada no meu projeto de TCC: <a href='https://github.com/vinho-notas/vinho-notas-app'> Vinho Notas</a>
+
 Na área de tecnologia eu tenho as seguintes skills:
 
 **Experiência:
@@ -49,8 +51,6 @@ Na área de tecnologia eu tenho as seguintes skills:
 * Curiosidade e aprendizado contínuo (Lifelong learning);
 * Empatia e maturidade pessoal e profissional;
 * Espírito de liderança;
-
-Aproveite para dar uma olhada no meu projeto de TCC: <a href='https://github.com/vinho-notas/vinho-notas-app'> Vinho Notas</a>
 
 ![vanderleik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderleik&show_icons=true&theme=radical)
 
