@@ -50,7 +50,7 @@ Na área de tecnologia eu tenho as seguintes skills:
 * Empatia e maturidade pessoal e profissional;
 * Espírito de liderança;
 
-Aproveite para dar uma olhada no meu projeto de TCC: [Vinho Notas]([https://www.example.com](https://github.com/vinho-notas/vinho-notas-app ))
+Aproveite para dar uma olhada no meu projeto de TCC: [Vinho Notas]([https://www.example.com](https://github.com/vinho-notas/vinho-notas-app )
 
 ![vanderleik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderleik&show_icons=true&theme=radical)
 
