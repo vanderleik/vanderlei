@@ -1,56 +1,45 @@
 # Olá, eu sou o Vanderlei
 
-Engenheiro de Software Full Stack | Especialista em Desenvolvimento | Especialista em Finanças | Economista | Professor | Escritor | Java | Spring Boot | Transformo Ideias em Soluções | Resolvo problemas.
+Engenheiro de Software Full Stack | Especialista em Java & Spring Boot | Transformador de Ideias em Soluções | Apaixonado por inovação.
 
-Atualmente sou Engenheiro de Software, com especialização em desenvolvimento full stack pela PUC RS, e experiência no desenvolvimento back end com linguagem Java. Também sou Mestre em Economia pela UFSC, com vasta experiência em finanças e 17 anos de experiência em bancos, professor universitário e escritor.´
+### Aproveite para dar uma olhada no meu projeto de TCC: <a href='https://github.com/vinho-notas/vinho-notas-app'> Vinho Notas</a>
 
-Aproveite para dar uma olhada no meu projeto de TCC: <a href='https://github.com/vinho-notas/vinho-notas-app'> Vinho Notas</a>
+Mestre em Economia com 17 anos de experiência em bancos e paixão por tecnologia.
 
-Na área de tecnologia eu tenho as seguintes skills:
+## Habilidades:
 
-**Experiência:
-* Linguagem Java (8, 11 e 17);
-* Spring Boot, Spring Data;
-* Desenvolvimento de aplicações backend;
-* Código legado;
-* Git, GitLab, GitHub e seus fluxos;
-* Arquitetura de micro-serviços;
-* Bancos de dados relacionais (Postgres, MySQL, SQL Server, Oracle);
-* Soluções e recursos AWS;
-* Maven;
-* Controle de versionamento com Git;
-* Filas;
-* CI/CD;
-* Construção da APIs
-* Testes automatizados, testes unitários, teste funcionais e automação de testes das soluções desenvolvidas (JUnit, integration, H2, Mockito);
-* Frameworks ágeis (Scrum, Kanban, Lean, Jira, Azure DevOps);
+<ul>
+<li><strong>Full Stack</strong>: Java 8, 11 e 17, Spring Boot, Spring Data, Desenvolvimento de Aplicações Backend, Código Legado, Arquitetura de Microsserviços, Bancos de Dados Relacionais (Postgres, MySQL, SQL Server, Oracle), Soluções e Recursos AWS, Maven, Controle de Versionamento com Git, Filas, CI/CD, Construção de APIs</li>
+<li><strong>Testes</strong>: Testes Automatizados, Testes Unitários, Teste Funcional, Automação de Testes das Soluções Desenvolvidas (JUnit, Integration, H2, Mockito)</li>
+<li><strong>Metodologias Ágeis</strong>: Scrum, Kanban, Lean, Jira, Azure DevOps</li>
+<li><strong>Conhecimentos Adicionais</strong>: JavaScript, HTML, CSS, React + Vite, Componentização e Estilização, Padrões de Arquitetura e Design, Serviços Cloud (AWS, Microsoft Azure), Integrações de API, SQL Server, PostgreSQL, MySql, RabbitMQ, Docker, Monitoramento (Grafana, Kibana)</li>
+<li><strong>Soft Skills</strong>: Comunicação Escrita e Verbal, Proatividade, Curiosidade, Trabalho em Equipe, Resolução de Problemas, Pensamento Crítico, Adaptabilidade, Gestão do Tempo, Aprendizado Contínuo, Empatia, Liderança</li>
+</ul>
+  
+## Experiência:
 
-** Conhecimentos:
-* Padrão REST;
-* Básicos em JavaScript, HTML e CSS;
-* Básicos em desenvolvimento de aplicações web com React + Vite;
-* Básicos em componentização e estilização;
-* Padrões de arquitetura e de projeto (design patterns, architetural styles, solid, clean code);
-* Serviços Cloud utilizando AWS e Microsoft Azure;
-* Integrações de API;
-* Metodologias ágeis;
-* SQL Server, PostgreSQL, MySql, RabbitMQ, Docker;
-* Familiaridade com containerização (Docker);
-* Familiaridade com monitoramento (Grafana, Kibana);
+<ul>
+<li><strong>Mais de 17 anos em bancos</strong>: Experiência em planejamento estratégico, custos, orçamento e análise financeira.</li>
+<li><strong>Professor Universitário</strong>:</li>
+<li>Ministrei disciplinas de Macroeconomia, Microeconomia, Economia Internacional e Econometria.</li>
+<li>Autor de 2 livros didáticos utilizados pela Uniasselvi.</li>
+<li><strong>Engenheiro de Software Full Stack</strong>:</li>
+<li>Desenvolvimento de aplicações web robustas e escaláveis.</li>
+<li>Experiência com tecnologias modernas e metodologias ágeis.</li>
+<li>Apaixonado por transformar ideias em soluções inovadoras.</li>
+</ul>
 
-** Soft Skills
+## Formação:
 
-* Boa comunicação escrita e verbal;
-* Pessoa antenada às novidades da área, curiosa e responsável;
-* Trabalho em equipe;
-* Facilidade em trabalhar com equipes multifuncionais e multigerações;
-* Resolução de problemas, desafios complexos e situações imprevistas;
-* Pensamento crítico;
-* Adaptabilidade;
-* Gestão do tempo e organização;
-* Curiosidade e aprendizado contínuo (Lifelong learning);
-* Empatia e maturidade pessoal e profissional;
-* Espírito de liderança;
+<ul>
+<li>Mestre em Economia (UFSC)</li>
+<li>Especialização em Desenvolvimento de Software Full Stack (PUC RS)</li>
+<li>MBA em Gestão Financeira, Controladoria e Auditoria (FGV)</li>
+<li>Bacharel em Economia</li>
+<li>Técnico Agrícola</li>
+</ul>
+
+### Estou em busca de novos desafios na área de software, onde possa utilizar minhas habilidades e experiência para contribuir para o sucesso da empresa.
 
 ![vanderleik's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanderleik&show_icons=true&theme=radical)
 
